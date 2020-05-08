@@ -3,6 +3,8 @@ An AI Tool to Help Customers Monitor Social Distancing in the Workplace.
 
 ### Sourcerer Mohan Morkel https://www.linkedin.com/in/mohanmorkel/
 
+Demo is here : https://www.youtube.com/watch?v=ZKJwJv7iVRE
+
 
 In the fight against the coronavirus, social distancing has proven to be a very effective measure to slow down the spread of the disease. While millions of people are staying at home to help flatten the curve, many customers in the manufacturing and pharmaceutical industries are still having to go to work everyday to make sure our basic needs are met.
 
